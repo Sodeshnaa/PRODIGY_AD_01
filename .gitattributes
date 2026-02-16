@@ -1,0 +1,3 @@
+.gradle/* linguist-vendored
+.idea/* linguist-vendored
+**/build/* linguist-vendored
